@@ -14,4 +14,4 @@ classes = [[2,4],[3,9],[4,5],[2,10]], extraStudents = 4
 classes = [[3,5],[1,9],[4,10],[2,8],[11,12],[26,30]], extraStudents =  7
 
 # Problemas em Aula
-Meu código em aula excedia o tempo limite para os testes, parava mais exatamente no teste 59, o fato de eu estar usando a função qsort a cada iteração do loop principal fazia com que o qsort, que tem custo O(n log n) fosse chanada toda vez que eu incrementava a quantidade de estudantes aprovados, o que transformava o custo em (extraStudents * n log n), um número muito grande de extraStudents resultava em um código mais custoso e que excedia o tempo limite.
+Meu código em aula excedia o tempo limite para os testes, parava mais exatamente no teste 59, o fato de eu estar usando a função qsort a cada iteração do loop principal fazia com que o qsort, que tem custo O(n log n) fosse chamada toda vez que eu incrementava a quantidade de estudantes aprovados, o que transformava o custo em (extraStudents * n log n), um número muito grande de extraStudents resultava em um código mais custoso e que excedia o tempo limite.
