@@ -1,7 +1,7 @@
 # Gustavo Donenech de Souza - Turma M1
 
 # Maximum Average Pass Ratio
-Você tem uma escola com turmas de alunos, onde cada turma possui um número mínimo de alunos que devem ser aprovados. A tarefa é distribuir um número de extraStudents (alunos brilhantes) para essas turmas de modo que a taxa média de aprovação seja maximizada.
+Você tem uma escola com turmas de alunos, onde cada turma possui um número mínimo de alunos que devem ser aprovados. A tarefa é distribuir um número de extraStudents (que sempre serão aprovados) para essas turmas de modo que a taxa média de aprovação seja maximizada.
 
 A taxa de aprovação de uma turma é dada pela fórmula: taxa de aprovação = alunos aprovados / total de alunos
  
